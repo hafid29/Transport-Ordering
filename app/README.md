@@ -3,7 +3,7 @@
 * role = admin
 
 ## database version
-![screenshot](img/mysql.png)
+![screenshot](img/mysql.PNG)
 
 ## php version
 ![screenshot](img/mysql.png)
