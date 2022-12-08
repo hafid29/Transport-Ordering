@@ -6,7 +6,7 @@
 ![screenshot](img/mysql.PNG)
 
 ## php version
-![screenshot](img/mysql.png)
+![screenshot](img/mysql.PNG)
 
 ## framework 
 * Laravel Framework 8.83.26
