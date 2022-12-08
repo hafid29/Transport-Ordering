@@ -3,7 +3,7 @@
 * role = admin
 
 ## database version
-![screenshot](https://github.com/hafid29/Transport-Ordering/tree/master/app/img/mysql.png)
+![screenshot](app/img/mysql.png)
 
 ## php version
 ![screenshot](img/mysql.png)
